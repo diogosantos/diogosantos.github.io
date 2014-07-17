@@ -1,0 +1,17 @@
+p.footer {
+	margin: auto; 
+	width: 500px;
+}
+
+	p.footer a {
+		color: #828282;
+	}
+
+img.cc {
+	display: inline-block;
+	vertical-align: -0.2em;
+	border: none;
+	width:1em;
+	height:1em;
+	opacity:0.4;
+}
